@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nusratrahman19
 - 👀 I’m interested in learning more
-- 🌱 I’m currently learning new language, new computer language and doing many courses to keep myself busy.
-- 💞️ I’m looking to collaborate on (not sure but want to collaborate with freecodecamp and CS50 and more)
+- 🌱 I’m currently learning new languages, new programming languages and I love reading books. 
 - 📫 How to reach me-- instagram: nusratrahman19
 
 <!---
