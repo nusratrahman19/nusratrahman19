@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nusratrahman19
+- 👋 Hi, I’m Nusrat 
 - 👀 I’m interested in learning more
-- 🌱 I’m currently learning new languages, new programming languages and I love reading books. 
-- 📫 How to reach me-- instagram: nusratrahman19
+- 🌱 Computer Science and Engineering student 👩‍💻 working on various projects.
+  
 
 <!---
 nusratrahman19/nusratrahman19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
